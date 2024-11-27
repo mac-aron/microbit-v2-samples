@@ -8,7 +8,7 @@
 		{
 			"type": "shell",
 			"label": "CODAL build",
-			"command": "python build.py",
+			"command": "python3 build.py",
 			"windows": {
 				"command": "py build.py"
 			},
@@ -20,7 +20,7 @@
 		{
 			"type": "shell",
 			"label": "CODAL clean build",
-			"command": "python build.py --clean",
+			"command": "python3 build.py --clean",
 			"windows": {
 				"command": "py build.py --clean"
 			},

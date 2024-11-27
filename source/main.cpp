@@ -9,6 +9,5 @@ int main()
 
     out_of_box_experience();
 
-    microbit_panic( 999 );
+    microbit_panic(999);
 }
-
